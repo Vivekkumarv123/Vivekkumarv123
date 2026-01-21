@@ -1,8 +1,10 @@
+<div >
+
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:1f6feb&height=200&section=header&text=Vivek%20Kumar&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20Backend%20Developer%20%7C%20Security%20Enthusiast&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=800&height=80&lines=Building+Secure+%26+Scalable+Backend+Systems;Creating+Developer-First+Tools;Passionate+about+Web+Security;Open+Source+Contributor" alt="Typing SVG" />
+<br/>
 
-# 👨‍💻 Vivek Kumar
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&height=100&lines=Software+Engineering+Student;Backend+Developer;Security+Enthusiast;Building+Developer+Tools" alt="Typing SVG" />
 
 **📍 Mumbai, India** • Backend-focused developer passionate about system design, security, and building tools developers love
 
@@ -19,7 +21,7 @@
 <img align="right" alt="Coding" width="440" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ```javascript
-const vivek = {
+const vivek_kumar = {
     role: "Software Engineering Student",
     location: "Mumbai, India 🇮🇳",
     interests: [

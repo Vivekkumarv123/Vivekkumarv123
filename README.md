@@ -1,12 +1,14 @@
 <div align="center">
-  
+
 # 👨‍💻 Vivek Kumar
 
-### Full Stack Developer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&height=100&lines=Software+Engineering+Student;Backend+Developer;Security+Enthusiast;Building+Developer+Tools" alt="Typing SVG" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=Vivekkumarv123&color=0e75b6&style=flat)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/vivekkumar)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=flat&logo=vercel)](https://vivekkumar.dev)
+**📍 Mumbai, India** • Backend-focused developer passionate about system design, security, and building tools developers love
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vivek-kumar-verma-swe)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivekkumarv273@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=Vivekkumarv123&color=58a6ff&style=for-the-badge)](https://github.com/Vivekkumarv123)
 
 </div>
 
@@ -14,160 +16,239 @@
 
 ## 🚀 About Me
 
-<table>
-<tr>
-<td width="50%">
+<img align="right" alt="Coding" width="480" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
 ```javascript
 const vivek = {
-    pronouns: "He" | "Him",
-    location: "Mumbai, India",
-    currentRole: "Full Stack Developer",
-    company: "Building innovative solutions",
-    skills: {
-        languages: ["JavaScript", "Python", 
-                   "TypeScript", "Java"],
-        frontend: ["React", "Next.js", 
-                  "Vue.js", "TailwindCSS"],
-        backend: ["Node.js", "Express", 
-                 "Django", "FastAPI"],
-        databases: ["MongoDB", "PostgreSQL", 
-                   "Redis", "MySQL"],
-        devOps: ["Docker", "Kubernetes", 
-                "AWS", "CI/CD"],
-        tools: ["Git", "GitHub", 
-               "VS Code", "Postman"]
-    },
-    architecture: ["Microservices", 
-                  "Event-Driven", 
-                  "Serverless", "MVC"],
-    currentFocus: "Building scalable systems",
-    funFact: "I debug with coffee ☕"
+    role: "Software Engineering Student",
+    location: "Mumbai, India 🇮🇳",
+    interests: [
+        "Backend Engineering",
+        "Web Security",
+        "System Design",
+        "Developer Tools"
+    ],
+    currentFocus: [
+        "Building production-ready APIs",
+        "Mastering DSA & System Design",
+        "Contributing to Open Source"
+    ],
+    hackathonExperience: "Shipped multiple end-to-end projects",
+    lifeGoal: "Build tools that make developers' lives easier ⚡"
 };
 ```
+
+<br clear="right"/>
+
+---
+
+## 💼 Featured Projects
+
+### 🔐 **DevSec Buddy** — Local Security Scanner
+> *Making web security accessible for developers*
+
+<details open>
+<summary><b>🎯 What it does</b></summary>
+
+A modular security scanner that identifies common web vulnerabilities in your applications.
+
+**🛠️ What I Built:**
+- **Python CLI Scanner** detecting XSS, SQL Injection, and insecure HTTP headers
+- **Node.js/Express API** for orchestrating scans and aggregating results  
+- **Next.js Dashboard** with severity-based vulnerability reporting
+- **Scan Profiles:** Basic → Standard → Deep (progressive security checks)
+
+**💡 Technical Highlights:**
+```
+• Modular architecture for easy vulnerability rule additions
+• CLI-to-API communication with result streaming
+• Color-coded terminal output for developer experience
+• Async scan orchestration for performance
+```
+
+**🔧 Tech Stack:** `Python` `Node.js` `Express` `Next.js` `REST APIs`
+
+**📚 Key Learning:** Web security fundamentals (OWASP Top 10), CLI–API orchestration patterns, designing modular backend systems
+
+</details>
+
+---
+
+### ⚖️ **Legal Advisor** — AI-Assisted Legal Guidance Tool
+> *Democratizing legal document understanding*
+
+<details>
+<summary><b>🎯 What it does</b></summary>
+
+AI-powered tool that helps non-technical users understand complex legal documents through intelligent analysis.
+
+**🛠️ What I Built:**
+- **Document Parser** extracting and structuring legal text
+- **OCR + NLP Pipeline** for clause identification and extraction
+- **Secure Backend APIs** handling sensitive document processing
+- **AI Summarization** converting legalese into plain language
+
+**💡 Technical Highlights:**
+```
+• Secure file upload with validation and sanitization
+• Multi-stage NLP pipeline (OCR → Parsing → Analysis → Summary)
+• RESTful API design for document processing workflows
+• Privacy-first: No document storage after processing
+```
+
+**🔧 Tech Stack:** `Node.js` `Python` `NLP` `OCR` `REST APIs`
+
+**📚 Key Learning:** Text processing pipelines, API-driven ML workflows, handling sensitive data securely
+
+</details>
+
+---
+
+### 📦 **DevDrop** — Developer Resource Sharing Platform
+> *Curated developer resources, community-driven*
+
+<details>
+<summary><b>🎯 What it does</b></summary>
+
+A platform for developers to share, discover, and manage useful development resources with community moderation.
+
+**🛠️ What I Built:**
+- **RESTful APIs** for resource CRUD operations with advanced filtering
+- **Role-Based Access Control (RBAC)** system for moderation
+- **Tag-based Discovery** engine with search optimization
+- **User Management** with JWT-based authentication
+
+**💡 Technical Highlights:**
+```
+• Designed scalable MongoDB schemas for resources and users
+• Implemented middleware-based auth and role verification
+• Built tag system with popularity ranking
+• API rate limiting and input validation
+```
+
+**🔧 Tech Stack:** `Node.js` `Express` `MongoDB` `JWT` `REST APIs`
+
+**📚 Key Learning:** Access control patterns, backend data modeling, API security best practices, MongoDB indexing strategies
+
+</details>
+
+---
+
+### ⚡ **axios-smart-client** — Enhanced HTTP Client Library
+> *Making API calls less painful*
+
+<details>
+<summary><b>🎯 What it does</b></summary>
+
+A developer-friendly wrapper around Axios that eliminates boilerplate and adds smart defaults for common use cases.
+
+**🛠️ What I Built:**
+- **Automatic Token Management** with refresh logic
+- **Smart Retry Mechanism** with exponential backoff
+- **Centralized Error Handling** with normalized error responses
+- **Request/Response Interceptors** for logging and debugging
+
+**💡 Technical Highlights:**
+```
+• Singleton pattern for client instance management
+• Configurable retry strategies (network, 5xx, timeout)
+• Automatic token injection and refresh flow
+• Type-safe error normalization
+```
+
+**🔧 Tech Stack:** `JavaScript` `Axios` `HTTP` `API Design`
+
+**📚 Key Learning:** Library design patterns, API ergonomics, client-side abstractions, developer experience optimization
+
+</details>
+
+---
+
+## 🛠️ Technical Arsenal
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Languages & Core
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+
+### Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask API](https://img.shields.io/badge/Flask_API-000000?style=for-the-badge&logo=flask&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![JWE](https://img.shields.io/badge/JWE-4B0082?style=for-the-badge&logo=lock&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth_2.0-3EAAAF?style=for-the-badge&logo=oauth&logoColor=white)
+
 </td>
-<td width="50%">
-<img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="100%" alt="Developer Animation"/>
+<td width="50%" valign="top">
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Databases & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 </td>
 </tr>
 </table>
 
----
-
-## 💻 Core Competencies
-
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### Database Technologies
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### 🔒 Security Focus
+`XSS Prevention` • `SQL Injection Mitigation` • `Secure Headers` • `JWT Authentication` • `Input Validation` • `RBAC`
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vivekkumarv123&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivekkumarv123&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
-</div>
 
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vivekkumarv123&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&count_private=true" />
 
-### 📈 Most Used Languages
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vivekkumarv123&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9)
 
-<div align="center">
-  
-![JavaScript](https://img.shields.io/badge/JavaScript-38.2%25-yellow?style=flat-square)
-![Python](https://img.shields.io/badge/Python-28.5%25-blue?style=flat-square)
-![TypeScript](https://img.shields.io/badge/TypeScript-18.3%25-blue?style=flat-square)
-![CSS](https://img.shields.io/badge/CSS-10.8%25-purple?style=flat-square)
-![HTML](https://img.shields.io/badge/HTML-4.2%25-orange?style=flat-square)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vivekkumarv123&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
 </div>
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Currently Working On
 
-- 🔭 **Mastering** advanced backend strategies and architectural patterns
-- 🌱 **Exploring** cloud-native technologies and serverless architectures
-- 👯 **Contributing** to open source projects and developer communities
-- 🚀 **Learning** design patterns and principles for scalable applications
-- 💡 **Building** side projects to solve real-world problems
-
----
-
-## 📅 Weekly Development Breakdown
-
-```text
-Monday         ████████████████░░░░░   75%  Building Features
-Tuesday        ██████████████████░░░   85%  Code Reviews & Testing
-Wednesday      ███████████████░░░░░░   70%  Architecture Planning
-Thursday       ████████████████████░   95%  Implementation
-Friday         ███████████░░░░░░░░░░   55%  Documentation
-Weekend        ██████████████░░░░░░░   65%  Side Projects & Learning
+```diff
++ Mastering Data Structures & Algorithms (Arrays, Trees, Graphs, DP)
++ Understanding distributed system design patterns
++ Writing cleaner, more testable backend code
++ Contributing to open source projects
+! Actively seeking SWE internship opportunities
 ```
 
 ---
 
-## 🏆 GitHub Trophies
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vivekkumarv123&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
-</div>
+
+### 💬 Let's Connect!
+
+*Open to internship opportunities, hackathon collaborations, and building cool stuff together*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vivek-kumar-verma-swe)
+[![Email](https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivekkumarv273@gmail.com)
 
 ---
 
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vivek-kumar-verma-swe)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vivekkumarv123)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivekkumarv273@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://vivekkumar.dev)
-
-</div>
-
----
-
-<div align="center">
-  
-### 💡 *"Don't forget to star repositories that you find interesting!"* ⭐
-
-**⚡ Fun Fact:** The best error message I've seen: "Success: Operation failed successfully" 😄
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vivekkumarv123&theme=react-dark&hide_border=true&bg_color=0D1117)](https://github.com/Vivekkumarv123)
-
-</div>
-
----
-
-<div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
-
-**Last Updated:** January 2025 | ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=100&section=footer" width="100%"/>
 
 </div>

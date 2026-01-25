@@ -254,3 +254,10 @@ A developer-friendly wrapper around Axios that eliminates boilerplate and adds s
 <img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=100&section=footer" width="100%"/>
 
 </div>
+
+
+<div align="center">
+⭐ If you find my work helpful or inspiring, I’d truly appreciate a star on my repositories. ⭐
+
+Made with ❤️ and dedication by Vivek Kumar Verma
+</div>

@@ -22,7 +22,7 @@
 
 ```javascript
 const vivek_kumar = {
-    role: "Software Engineering Student",
+    role: "Software Engineer/Freelancer",
     location: "Mumbai, India 🇮🇳",
     interests: [
         "Backend Engineering",

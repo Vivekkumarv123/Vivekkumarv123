@@ -1,7 +1,7 @@
 <div >
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:1f6feb&height=200&section=header&text=Vivek%20Kumar&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20Backend%20Developer%20%7C%20Security%20Enthusiast&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:1f6feb&height=200&section=header&text=Vivek%20Kumar&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%20%7C%20Backend%20Developer%20%7C%20Security%20Enthusiast&descAlignY=55&descSize=20" width="100%"/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=800&height=80&lines=Building+Secure+%26+Scalable+Backend+Systems;Creating+Developer-First+Tools;Passionate+about+Web+Security;Open+Source+Contributor" alt="Typing SVG" />
 <br/>
 

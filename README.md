@@ -1,263 +1,80 @@
-<div >
+# Vivek Kumar Verma
+**Backend Software Engineer | Cloud Architecture | Web Security**
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:1f6feb&height=200&section=header&text=Vivek%20Kumar&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%20%7C%20Backend%20Developer%20%7C%20Security%20Enthusiast&descAlignY=55&descSize=20" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=800&height=80&lines=Building+Secure+%26+Scalable+Backend+Systems;Creating+Developer-First+Tools;Passionate+about+Web+Security;Open+Source+Contributor" alt="Typing SVG" />
-<br/>
+📍 Mumbai, India
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vivek-kumar-verma-swe)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vivekkumarv273@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Vivekkumarv123)
 
-**📍 Mumbai, India** • Backend-focused developer passionate about system design, security, and building tools developers love
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vivek-kumar-verma-swe)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivekkumarv273@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=Vivekkumarv123&color=58a6ff&style=for-the-badge)](https://github.com/Vivekkumarv123)
-
-</div>
+Backend-focused engineer building secure, modular APIs and cloud-deployed systems. Engineering philosophy centers on distributed systems design, OWASP-aligned vulnerability mitigation, and infrastructure that moves cleanly from local dev to production. Actively seeking full-time SWE roles.
 
 ---
 
-## 🚀 About Me
+## Achievements
 
-<img align="right" alt="Coding" width="440" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
-```javascript
-const vivek_kumar = {
-    role: "Software Engineer/Freelancer",
-    location: "Mumbai, India 🇮🇳",
-    interests: [
-        "Backend Engineering",
-        "Web Security",
-        "System Design",
-        "Developer Tools"
-    ],
-    currentFocus: [
-        "Building production-ready APIs",
-        "Mastering DSA & System Design",
-        "Contributing to Open Source"
-    ],
-    hackathonExperience: "Shipped multiple end-to-end projects",
-    lifeGoal: "Build tools that make developers' lives easier ⚡"
-};
-```
-
-<br clear="right"/>
+- **Gen AI Elite Club (Top 75) & Top 10 Team — Google Cloud Gen AI Academy APAC** *(Aug 2026)*
+  Selected into the Elite Club; placed Top 10 of the Cohort 2 hackathon applying Google Cloud GenAI to a market-ready solution.
+- **National Top 100 (#62) — Google Cloud Code Vipassana S15** *(Jun 2026)*
+  Ranked 62nd nationwide on cloud architecture and GCP deployment challenges.
+- **2nd Runner-Up (3rd of N teams) — TechSprint AI Hackathon '25**, GDG On Campus, Pillai College of Engineering *(Jan 2026)*
 
 ---
 
-## 💼 Featured Projects
+## Technical Arsenal
 
-### 🔐 **DevSec Buddy** — Local Security Scanner
-> *Making web security accessible for developers*
+**Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-<details open>
-<summary><b>🎯 What it does</b></summary>
+**Backend & APIs**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-A modular security scanner that identifies common web vulnerabilities in your applications.
+**Cloud & Infra**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-**🛠️ What I Built:**
-- **Python CLI Scanner** detecting XSS, SQL Injection, and insecure HTTP headers
-- **Node.js/Express API** for orchestrating scans and aggregating results  
-- **Next.js Dashboard** with severity-based vulnerability reporting
-- **Scan Profiles:** Basic → Standard → Deep (progressive security checks)
+**Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-**💡 Technical Highlights:**
-```
-• Modular architecture for easy vulnerability rule additions
-• CLI-to-API communication with result streaming
-• Color-coded terminal output for developer experience
-• Async scan orchestration for performance
-```
-
-**🔧 Tech Stack:** `Python` `Node.js` `Express` `Next.js` `REST APIs`
-
-**📚 Key Learning:** Web security fundamentals (OWASP Top 10), CLI–API orchestration patterns, designing modular backend systems
-
-</details>
+**Security & Auth**
+`XSS/SQLi Prevention` `JWT/JWE` `OAuth 2.0` `RBAC` `Input Validation`
 
 ---
 
-### ⚖️ **Legal Advisor** — AI-Assisted Legal Guidance Tool
-> *Democratizing legal document understanding*
+## Architectural Projects
 
-<details>
-<summary><b>🎯 What it does</b></summary>
+### [DevSec Buddy](https://github.com/Vivekkumarv123/devsec-buddy) — Modular Web Security Scanner
+Local vulnerability scanner detecting XSS, SQL injection, and insecure HTTP headers.
+- **Architecture:** Decoupled system — Python CLI as the scanning engine, Node.js/Express API for orchestration and result aggregation, Dockerized for consistent cross-platform runs.
+- **Performance:** Async scan orchestration runs progressive checks (Basic → Standard → Deep) without blocking the event loop, cutting full-scan time from **[baseline]s to [Xs]** on a **[N]-file** test target. *← replace with your actual benchmark numbers*
+- **Design decision:** Chose a CLI-to-API split over a monolith so the scan engine can run standalone in CI pipelines independent of the dashboard.
 
-AI-powered tool that helps non-technical users understand complex legal documents through intelligent analysis.
+### [Legal Advisor](https://github.com/Vivekkumarv123/legal-advisor) — AI-Assisted Legal Document Pipeline
+Multi-stage NLP pipeline that turns legal documents into plain-language summaries.
+- **Pipeline:** OCR → text extraction → clause identification → AI summarization, processing documents averaging **[N] pages** in **[X] seconds** end-to-end. *← replace with real measured numbers*
+- **Security:** Zero-persistence design — documents are processed in memory and never written to disk post-analysis, with validated/sanitized upload handling for sensitive legal text.
+- **Design decision:** Chose a multi-stage pipeline over a single LLM call to keep clause extraction auditable and debuggable independent of the summarization step.
 
-**🛠️ What I Built:**
-- **Document Parser** extracting and structuring legal text
-- **OCR + NLP Pipeline** for clause identification and extraction
-- **Secure Backend APIs** handling sensitive document processing
-- **AI Summarization** converting legalese into plain language
+### [DevDrop](https://github.com/Vivekkumarv123/DevDrop) — Developer Resource Discovery Platform
+Community-driven platform for sharing and discovering curated dev resources.
+- **Data model:** MongoDB with strategic indexing on tag fields; SQLite used for local caching to reduce redundant lookups.
+- **Access control:** Middleware-based RBAC with JWT auth gating moderation actions.
+- **Scale:** *[Add real numbers if you have them — e.g. "indexed search over N resources, median query time Xms" — or drop this line entirely if the platform hasn't been load-tested yet. An honest "architected for scale, not yet load-tested" beats an invented number.]*
 
-**💡 Technical Highlights:**
-```
-• Secure file upload with validation and sanitization
-• Multi-stage NLP pipeline (OCR → Parsing → Analysis → Summary)
-• RESTful API design for document processing workflows
-• Privacy-first: No document storage after processing
-```
-
-**🔧 Tech Stack:** `Node.js` `Python` `NLP` `OCR` `REST APIs`
-
-**📚 Key Learning:** Text processing pipelines, API-driven ML workflows, handling sensitive data securely
-
-</details>
-
+### [axios-smart-client](https://github.com/Vivekkumarv123/axios-smart-client) — Enhanced HTTP Client Library
+Wrapper around Axios eliminating boilerplate for auth, retries, and error handling.
+- **Design:** Singleton client instance; automatic token refresh; exponential-backoff retry (configurable for network/5xx/timeout failures); normalized error responses across all failure modes.
+- **Design decision:** Interceptor-based approach chosen so consuming apps get retry/auth logic with zero call-site changes.
+  
 ---
 
-### 📦 **DevDrop** — Developer Resource Sharing Platform
-> *Curated developer resources, community-driven*
-
-<details>
-<summary><b>🎯 What it does</b></summary>
-
-A platform for developers to share, discover, and manage useful development resources with community moderation.
-
-**🛠️ What I Built:**
-- **RESTful APIs** for resource CRUD operations with advanced filtering
-- **Role-Based Access Control (RBAC)** system for moderation
-- **Tag-based Discovery** engine with search optimization
-- **User Management** with JWT-based authentication
-
-**💡 Technical Highlights:**
-```
-• Designed scalable MongoDB schemas for resources and users
-• Implemented middleware-based auth and role verification
-• Built tag system with popularity ranking
-• API rate limiting and input validation
-```
-
-**🔧 Tech Stack:** `Node.js` `Express` `MongoDB` `JWT` `REST APIs`
-
-**📚 Key Learning:** Access control patterns, backend data modeling, API security best practices, MongoDB indexing strategies
-
-</details>
-
----
-
-### ⚡ **axios-smart-client** — Enhanced HTTP Client Library
-> *Making API calls less painful*
-
-<details>
-<summary><b>🎯 What it does</b></summary>
-
-A developer-friendly wrapper around Axios that eliminates boilerplate and adds smart defaults for common use cases.
-
-**🛠️ What I Built:**
-- **Automatic Token Management** with refresh logic
-- **Smart Retry Mechanism** with exponential backoff
-- **Centralized Error Handling** with normalized error responses
-- **Request/Response Interceptors** for logging and debugging
-
-**💡 Technical Highlights:**
-```
-• Singleton pattern for client instance management
-• Configurable retry strategies (network, 5xx, timeout)
-• Automatic token injection and refresh flow
-• Type-safe error normalization
-```
-
-**🔧 Tech Stack:** `JavaScript` `Axios` `HTTP` `API Design`
-
-**📚 Key Learning:** Library design patterns, API ergonomics, client-side abstractions, developer experience optimization
-
-</details>
-
----
-
-## 🛠️ Technical Arsenal
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Languages & Core
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-
-### Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask API](https://img.shields.io/badge/Flask_API-000000?style=for-the-badge&logo=flask&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![JWE](https://img.shields.io/badge/JWE-4B0082?style=for-the-badge&logo=lock&logoColor=white)
-![OAuth](https://img.shields.io/badge/OAuth_2.0-3EAAAF?style=for-the-badge&logo=oauth&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Databases & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</td>
-</tr>
-</table>
-
-### 🔒 Security Focus
-`XSS Prevention` • `SQL Injection Mitigation` • `Secure Headers` • `JWT Authentication` • `Input Validation` • `RBAC`
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vivekkumarv123&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&count_private=true" />
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vivekkumarv123&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vivekkumarv123&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-</div>
-
----
-
-## 🎯 Currently Working On
-
-```diff
-+ Mastering Data Structures & Algorithms (Arrays, Trees, Graphs, DP)
-+ Understanding distributed system design patterns
-+ Writing cleaner, more testable backend code
-+ Contributing to open source projects
-! Actively seeking SWE internship opportunities
-```
-
----
-
-<div align="center">
-
-### 💬 Let's Connect!
-
-*Open to internship opportunities, hackathon collaborations, and building cool stuff together*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vivek-kumar-verma-swe)
-[![Email](https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivekkumarv273@gmail.com)
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=100&section=footer" width="100%"/>
-
-</div>
-
-
-<div align="center">
-⭐ If you find my work helpful or inspiring, I’d truly appreciate a star on my repositories. ⭐
-
-Made with ❤️ and dedication by Vivek Kumar Verma
-</div>
+Open to discussing distributed systems, web security, full-time SWE opportunities, open source contributions, or freelance work — links are up top.

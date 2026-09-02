@@ -17,8 +17,8 @@ Backend-focused engineer building secure, modular APIs and cloud-deployed system
   Selected into the Elite Club; placed Top 10 of the Cohort 2 hackathon applying Google Cloud GenAI to a market-ready solution.
 - **National Top 100 (#62) — Google Cloud Code Vipassana S15** *(Jun 2026)*
   Ranked 62nd nationwide on cloud architecture and GCP deployment challenges.
-- **2nd Runner-Up (3rd of N teams) — TechSprint AI Hackathon '25**, GDG On Campus, Pillai College of Engineering *(Jan 2026)*
-
+- **2nd Runner-Up (3rd Place) — TechSprint AI Hackathon '25** *(Jan 2026)*
+  Secured 3rd place out of competing teams at the GDG On Campus (Pillai College of Engineering) hackathon, focused on building impactful, cutting-edge AI solutions.
 ---
 
 ## Technical Arsenal
